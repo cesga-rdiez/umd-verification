@@ -52,6 +52,7 @@ from umd.products.ui import ui         				    # NOQA
 # from umd.products.wms import wms_utils                      	    # NOQA
 from umd.products.wn import wn                      		    # NOQA
 from umd.products.xrootd import xrootd                      	    # NOQA
+from umd.products.cloudkeeper_one import cloudkeeper_one
 
 
 state.output.status = False
